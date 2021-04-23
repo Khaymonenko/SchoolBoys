@@ -1,0 +1,10 @@
+C:\Users\Sergey Klimov\OneDrive\C#\Schoolboys\Schoolboys\bin\Debug\Schoolboys.exe.config
+C:\Users\Sergey Klimov\OneDrive\C#\Schoolboys\Schoolboys\bin\Debug\Schoolboys.exe
+C:\Users\Sergey Klimov\OneDrive\C#\Schoolboys\Schoolboys\bin\Debug\Schoolboys.pdb
+C:\Users\Sergey Klimov\OneDrive\C#\Schoolboys\Schoolboys\obj\Debug\Schoolboys.csprojAssemblyReference.cache
+C:\Users\Sergey Klimov\OneDrive\C#\Schoolboys\Schoolboys\obj\Debug\Schoolboys.Main.resources
+C:\Users\Sergey Klimov\OneDrive\C#\Schoolboys\Schoolboys\obj\Debug\Schoolboys.Properties.Resources.resources
+C:\Users\Sergey Klimov\OneDrive\C#\Schoolboys\Schoolboys\obj\Debug\Schoolboys.csproj.GenerateResource.cache
+C:\Users\Sergey Klimov\OneDrive\C#\Schoolboys\Schoolboys\obj\Debug\Schoolboys.csproj.CoreCompileInputs.cache
+C:\Users\Sergey Klimov\OneDrive\C#\Schoolboys\Schoolboys\obj\Debug\Schoolboys.exe
+C:\Users\Sergey Klimov\OneDrive\C#\Schoolboys\Schoolboys\obj\Debug\Schoolboys.pdb
