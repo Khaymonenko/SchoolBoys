@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced Search Engine", "Advanced Search Engine.csproj", "{97DFBA5F-3FE1-4EBB-B679-D93E6A6B9C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97DFBA5F-3FE1-4EBB-B679-D93E6A6B9C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DFBA5F-3FE1-4EBB-B679-D93E6A6B9C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DFBA5F-3FE1-4EBB-B679-D93E6A6B9C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DFBA5F-3FE1-4EBB-B679-D93E6A6B9C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5BD95C7-6F4B-4D88-BED5-81B9322B035C}
+	EndGlobalSection
+EndGlobal
